@@ -1,7 +1,0 @@
-=== ACPC Grading System Simulation Results ===
-
-Average Queue Length: 267.50
-
-Average Waiting Time: 0.02 minutes
-
-Average Completion Time: 0.15 minutes
